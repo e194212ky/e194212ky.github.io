@@ -1,0 +1,32 @@
+.syumi {
+    text-align: center;
+    background-color:black;
+    color:aquamarine;
+}
+h1{
+    text-align: center;
+    background-color:blue;
+    color:white;
+}
+.css{
+    color:green;
+    text-align: center;
+    font-size:2pc;
+    background-color :darkmagenta;
+    
+}
+h2{
+    color:black;
+    text-align: center;
+    font-size:2pc;
+    background-color :burlywood;
+}
+p{
+    font-family:"Noto Sans JP";
+    color:white;
+}
+body{
+    background-image: url("../images/04.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}

@@ -1,0 +1,51 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:aquamarine;
+    font-size:25px;
+    margin-bottom: 20px;
+
+}
+div.footer{
+  width: 1000px;
+    height:40px;
+    background-color:cadetblue;
+    text-align: right;
+    font-size:20px;
+    margin-top:20px;
+}div{
+    font-size: 0; 
+}div.menu{
+    font-size: 0;
+    background-color: red;
+    
+}div.menu1{
+    background-color: black;
+    width:250px;
+    height:320px;
+    vertical-align: top;
+    display:inline-block;
+}div.menu2{
+    display:inline-block;
+    background-color:blue;
+    width:700px;
+    height:320px;
+    vertical-align: top;
+}
+
+div.images1{
+    width:700px;
+    height:300px;
+    background-color:blue;
+    
+    font-size:30px;
+    text-align:center;
+}div.images2{
+    width:700px;
+    height:20px;
+    background-color:blueviolet;
+    
+    font-size:10px;
+    text-align:center;
+}
+
